@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Controller/LogoutServlet.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Controller/BorrowBookServlet.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Controller/DashboardServlet.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Model/Book.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Model/Loan.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Controller/LoginServlet.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Model/User.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/web/dashboard.jsp</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Controller/LoanBookServlet.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/web/borrowBook.jsp</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Database/Database.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/web/available_books.jsp</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Database/DatabaseInfo.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/src/java/Controller/ViewBookServlet.java</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/web/index.html</file>
+            <file>file:/Users/kietluong/NetBeansProjects/Books_DE180277/web/manageLoans.jsp</file>
+        </group>
+    </open-files>
+</project-private>
