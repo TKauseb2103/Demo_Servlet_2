@@ -50,7 +50,7 @@
     <body>
 
         <div class="container">
-            <h2>Welcome to, ${user.username}!</h2> <!-- Sử dụng EL để hiển thị username -->
+            <h2>Welcome to nehh, ${user.username}!</h2> <!-- Sử dụng EL để hiển thị username -->
             <p>Select an action:</p>
 
             <a href="borrowBook.jsp" class="button">Borrow a Book</a>
